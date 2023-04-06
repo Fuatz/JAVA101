@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KDV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manav.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotOrtalamasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Taksi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ucgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VucutKitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YolMasrafi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +47,16 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ucgen">
-    <configuration name="Dolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dolar" />
+  <component name="RunManager" selected="Application.YolMasrafi">
+    <configuration name="NotOrtalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotOrtalamasi" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KDV" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Taksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taksi" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,12 +69,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucutKitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucutKitle" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YolMasrafi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YolMasrafi" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YolMasrafi" />
+        <item itemvalue="Application.VucutKitle" />
         <item itemvalue="Application.Ucgen" />
-        <item itemvalue="Application.KDV" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Dolar" />
+        <item itemvalue="Application.Taksi" />
+        <item itemvalue="Application.NotOrtalamasi" />
       </list>
     </recent_temporary>
   </component>
