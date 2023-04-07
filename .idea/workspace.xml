@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Daire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtraMesai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2O4XD6jwGupVG4nBuQQeVMQRsdJ" />
@@ -31,32 +36,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/Fuat/Desktop/YAZILIM/Java101/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Fuat/Desktop/YAZILIM/Java101/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101\src" />
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.YolMasrafi">
-    <configuration name="NotOrtalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotOrtalamasi" />
+  <component name="RunManager" selected="Application.ExtraMesai">
+    <configuration name="ExtraMesai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtraMesai" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taksi" />
+    <configuration name="GuneGoreMaas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuneGoreMaas" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtraMesai" />
+        <item itemvalue="Application.GuneGoreMaas" />
         <item itemvalue="Application.YolMasrafi" />
         <item itemvalue="Application.VucutKitle" />
         <item itemvalue="Application.Ucgen" />
-        <item itemvalue="Application.Taksi" />
-        <item itemvalue="Application.NotOrtalamasi" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +116,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/VucutKitle.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
