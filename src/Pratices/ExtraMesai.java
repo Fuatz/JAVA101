@@ -1,3 +1,5 @@
+package Pratices;
+
 import java.util.Scanner;
 public class ExtraMesai {
     public static void main(String[] args) {

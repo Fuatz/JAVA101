@@ -1,3 +1,5 @@
+package Pratices;
+
 import java.util.Scanner;
 
 public class KDV {

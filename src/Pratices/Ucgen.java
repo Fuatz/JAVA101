@@ -1,3 +1,5 @@
+package Pratices;
+
 import java.util.Scanner;
 public class Ucgen {
     public static void main(String[] args) {
