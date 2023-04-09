@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratices/Kullanici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratices/SinifiGecme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,22 +68,9 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kullanici">
+  <component name="RunManager" selected="Application.SinifiGecme">
     <configuration name="HesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratices.HesapMakinasi" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pratices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KullanıcıGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.KullanıcıGirisi" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KullaniciGirisi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.KullaniciGirisi2" />
+    <configuration name="SinifGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.SinifGecme" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pratices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinifiGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.SinifiGecme" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinifiGecme" />
+        <item itemvalue="Application.SinifGecme" />
+        <item itemvalue="Application.HesapMakinasi" />
         <item itemvalue="Application.Kullanici" />
         <item itemvalue="Application.KullaniciGirisi" />
-        <item itemvalue="Application.KullaniciGirisi2" />
-        <item itemvalue="Application.KullanıcıGirisi" />
-        <item itemvalue="Application.HesapMakinasi" />
       </list>
     </recent_temporary>
   </component>
@@ -175,9 +174,9 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Pratices/Kullanici.java</url>
+          <url>file://$PROJECT_DIR$/src/Pratices/SinifiGecme.java</url>
           <line>2</line>
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>
@@ -187,6 +186,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pratices/SinifiGecme.java</url>
+          <line>3</line>
+          <properties class="Pratices.SinifiGecme" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
