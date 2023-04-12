@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="" />
+    <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Pratices/SayilariSiralama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HavaSicakligineGoreEtkinlik">
+  <component name="RunManager" selected="Application.SayilariSiralama">
     <configuration name="HavaSicakligineGoreEtkinlik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratices.HavaSicakligineGoreEtkinlik" />
       <module name="Java101" />
@@ -79,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.HesapMakinasi" />
+    <configuration name="SayilariSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.SayilariSiralama" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayilariSiralama" />
         <item itemvalue="Application.HavaSicakligineGoreEtkinlik" />
         <item itemvalue="Application.SinifiGecme" />
         <item itemvalue="Application.Sinifigecme" />
         <item itemvalue="Application.SinifGecme" />
-        <item itemvalue="Application.HesapMakinasi" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +167,11 @@
           <line>1</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pratices/SayilariSiralama.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>
           <line>2</line>
@@ -172,6 +180,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pratices/SayilariSiralama.java</url>
+          <line>3</line>
+          <properties class="Pratices.SayilariSiralama" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
