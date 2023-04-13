@@ -1,6 +1,7 @@
 package Pratices;
 
 import java.util.Scanner;
+
 public class NotOrtalamasi {
     public static void main(String[] args) {
 
@@ -27,11 +28,11 @@ public class NotOrtalamasi {
         Muzik = input.nextInt();
 
         int toplam = (Mat + Fizik + Kimya + Turkce + Tarih + Muzik);
-        double sonuc = (toplam / 6 );
+        double sonuc = (toplam / 6);
 
-        System.out.println("Not Ortalamanız : " +sonuc);
+        System.out.println("Not Ortalamanız : " + sonuc);
 
-        System.out.print(sonuc>=60?"Sınıfı Geçtiniz" : "Sınıfta Kaldınız");
+        System.out.print(sonuc >= 60 ? "Sınıfı Geçtiniz" : "Sınıfta Kaldınız");
 
 
     }

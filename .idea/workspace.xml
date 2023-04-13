@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratices/BurcBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratices/UcakBileti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/BurcBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/BurcBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Daire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/ExtraMesai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/ExtraMesai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/HavaSicakligineGoreEtkinlik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/HavaSicakligineGoreEtkinlik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/KDV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/KDV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Manav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/NotOrtalamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/NotOrtalamasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/SayilariSiralama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/SayilariSiralama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/SinifiGecme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/SinifiGecme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/Taksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Taksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/Ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Ucgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/VucutKitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/VucutKitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pratices/YolMasrafi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/YolMasrafi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +82,7 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BurcBulma">
+  <component name="RunManager" selected="Application.UcakBileti">
     <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratices.BurcBulma" />
       <module name="Java101" />
@@ -82,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HavaSicakligineGoreEtkinlik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.HavaSicakligineGoreEtkinlik" />
+    <configuration name="Practices.UcakBilet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practices.UcakBilet" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcakBilet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.UcakBilet" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SayilariSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.SayilariSiralama" />
+    <configuration name="UcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.UcakBileti" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -108,33 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinifiGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.SinifiGecme" />
+    <configuration name="fark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practices.fark" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratices.*" />
+          <option name="PATTERN" value="Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sinifigecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sinifigecme" />
-      <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBileti" />
+        <item itemvalue="Application.UcakBilet" />
+        <item itemvalue="Application.fark" />
+        <item itemvalue="Application.Practices.UcakBilet" />
         <item itemvalue="Application.BurcBulma" />
-        <item itemvalue="Application.SayilariSiralama" />
-        <item itemvalue="Application.HavaSicakligineGoreEtkinlik" />
-        <item itemvalue="Application.SinifiGecme" />
-        <item itemvalue="Application.Sinifigecme" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +189,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Pratices/SayilariSiralama.java</url>
-          <line>2</line>
+          <line>4</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Pratices/BurcBulma.java</url>
-          <line>2</line>
+          <line>4</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pratices/UcakBileti.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>
@@ -188,12 +213,30 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Pratices/SayilariSiralama.java</url>
-          <line>3</line>
+          <line>5</line>
           <properties class="Pratices.SayilariSiralama" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pratices/BurcBulma.java</url>
+          <line>5</line>
+          <properties class="Pratices.BurcBulma" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pratices/UcakBileti.java</url>
+          <line>5</line>
+          <properties class="Pratices.UcakBileti" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

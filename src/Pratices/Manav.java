@@ -1,11 +1,12 @@
 package Pratices;
 
 import java.util.Scanner;
+
 public class Manav {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        double armut,elma,domates,muz,patlican,totalFiyat, armutFiyat,elmaFiyat,domatesFiyat,muzFiyat,patlicanFiyat;
+        double armut, elma, domates, muz, patlican, totalFiyat, armutFiyat, elmaFiyat, domatesFiyat, muzFiyat, patlicanFiyat;
 
         System.out.println("Aldığınız Armutların kilosunu giriniz : ");
         armut = input.nextDouble();
@@ -29,8 +30,8 @@ public class Manav {
         patlican = input.nextDouble();
         patlicanFiyat = patlican * 5;
 
-        totalFiyat = patlicanFiyat + muzFiyat + domatesFiyat + elmaFiyat +armutFiyat;
-        System.out.println("ürünların toplam fiyatı : " +totalFiyat);
+        totalFiyat = patlicanFiyat + muzFiyat + domatesFiyat + elmaFiyat + armutFiyat;
+        System.out.println("ürünların toplam fiyatı : " + totalFiyat);
     }
 
 }
