@@ -1,6 +1,6 @@
 package Pratices;
 import java.util.Scanner;
-public class CinZodyagı {
+public class CinZodyag {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
