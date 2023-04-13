@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratices/UcakBileti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratices/CinZodyagı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/BurcBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/BurcBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Daire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/ExtraMesai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/ExtraMesai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/HavaSicakligineGoreEtkinlik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/HavaSicakligineGoreEtkinlik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/HesapMakinasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/KDV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/KDV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Manav.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/NotOrtalamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/NotOrtalamasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/SayilariSiralama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/SayilariSiralama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/SinifiGecme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/SinifiGecme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/Taksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Taksi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/Ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Ucgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/VucutKitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/VucutKitle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pratices/YolMasrafi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/YolMasrafi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +68,9 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UcakBileti">
-    <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratices.BurcBulma" />
+  <component name="RunManager" selected="Application.CinZodyagı">
+    <configuration name="CinZodyagı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratices.CinZodyagı" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CinZodyagı" />
         <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.UcakBilet" />
         <item itemvalue="Application.fark" />
         <item itemvalue="Application.Practices.UcakBilet" />
-        <item itemvalue="Application.BurcBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +187,11 @@
           <url>file://$PROJECT_DIR$/src/Pratices/UcakBileti.java</url>
           <line>4</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pratices/CinZodyagı.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>
