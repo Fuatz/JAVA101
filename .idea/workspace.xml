@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/F0r.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/F0r_Breakk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/F0r_Continuee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_Breakk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_Continuee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_F0r.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratices/Main4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +72,9 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.F0r">
-    <configuration name="Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.Do_While" />
+  <component name="RunManager" selected="Application.Whiles_Continuee">
+    <configuration name="Continuee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Continuee" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F0r" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.F0r" />
+    <configuration name="F0r_Breakk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.F0r_Breakk" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.WhileDongu" />
+    <configuration name="F0r_Continuee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.F0r_Continuee" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDonguler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.WhileDonguler" />
+    <configuration name="Whiles_Breakk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Whiles_Breakk" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.Whiles" />
+    <configuration name="Whiles_Continuee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Whiles_Continuee" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.F0r" />
-        <item itemvalue="Application.Do_While" />
-        <item itemvalue="Application.Whiles" />
-        <item itemvalue="Application.WhileDongu" />
-        <item itemvalue="Application.WhileDonguler" />
+        <item itemvalue="Application.Whiles_Continuee" />
+        <item itemvalue="Application.Whiles_Breakk" />
+        <item itemvalue="Application.F0r_Continuee" />
+        <item itemvalue="Application.F0r_Breakk" />
+        <item itemvalue="Application.Continuee" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +221,11 @@
           <url>file://$PROJECT_DIR$/src/Donguler/F0r.java</url>
           <line>4</line>
           <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Donguler/Whiles_Breakk.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>
