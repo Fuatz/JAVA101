@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/F0r_Breakk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/F0r_Continuee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_Breakk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_Continuee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Whiles_F0r.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,11 +216,6 @@
           <url>file://$PROJECT_DIR$/src/Donguler/F0r.java</url>
           <line>4</line>
           <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Donguler/Whiles_Breakk.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Notes/LogicalOperators.java</url>

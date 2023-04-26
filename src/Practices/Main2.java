@@ -1,4 +1,4 @@
-package Pratices;
+package Practices;
 
 import java.util.Scanner;
 public class Main2 {
