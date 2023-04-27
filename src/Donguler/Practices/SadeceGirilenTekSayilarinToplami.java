@@ -11,6 +11,7 @@ public class SadeceGirilenTekSayilarinToplami {
         do {
             System.out.println("Sayı Giriniz : ");
             k = input.nextInt();
+
             if (k % 2 == 1) {
                 total += k;
                 ++number;
