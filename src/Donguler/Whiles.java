@@ -1,7 +1,7 @@
 package Donguler;
 
 import java.util.Scanner;
-
+// başı sonu belli olmayan.
 public class Whiles {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package Donguler;
 
 import java.util.Scanner;
-
+// başı sonu belli olan.
 public class F0r {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
