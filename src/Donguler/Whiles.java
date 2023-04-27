@@ -6,10 +6,8 @@ public class Whiles {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int Password;
-        int Hak = 3;
+        int Password, Hak = 3;
         boolean PasswordSucces = true;
-
 
         System.out.println("Şifre Giriniz : ");
 
