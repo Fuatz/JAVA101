@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Practices/Faktoriyel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Practices/Kombinasyon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Donguler/F0r.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Donguler/F0r.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Donguler/Whiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Donguler/Whiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Faktoriyel">
+  <component name="RunManager" selected="Application.Kombinasyon">
     <configuration name="DortVeBesinKatlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.Practices.DortVeBesinKatlari" />
       <module name="Java101" />
@@ -113,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GirilenSayidanKucukIkininKuvvetleriniBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.Practices.GirilenSayidanKucukIkininKuvvetleriniBulanProgram" />
+    <configuration name="Kombinasyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Practices.Kombinasyon" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kombinasyon" />
         <item itemvalue="Application.Faktoriyel" />
         <item itemvalue="Application.F0r_Breakk" />
         <item itemvalue="Application.DortVeBesinKatlari" />
         <item itemvalue="Application.Whiles_Continuee" />
-        <item itemvalue="Application.GirilenSayidanKucukIkininKuvvetleriniBulanProgram" />
       </list>
     </recent_temporary>
   </component>
