@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f445e14-7826-443e-90c2-e59d99bb192d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Donguler/Practices/Kombinasyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Donguler/Practices/UsluSayiHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Donguler/Practices/Kombinasyon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Donguler/Practices/Kombinasyon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <recent name="C:\Users\Fuat\Desktop\YAZILIM\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kombinasyon">
+  <component name="RunManager" selected="Application.UsluSayiHesaplama">
     <configuration name="DortVeBesinKatlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Donguler.Practices.DortVeBesinKatlari" />
       <module name="Java101" />
@@ -124,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whiles_Continuee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Donguler.Whiles_Continuee" />
+    <configuration name="UsluSayiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Donguler.Practices.UsluSayiHesaplama" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Donguler.*" />
+          <option name="PATTERN" value="Donguler.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsluSayiHesaplama" />
         <item itemvalue="Application.Kombinasyon" />
         <item itemvalue="Application.Faktoriyel" />
         <item itemvalue="Application.F0r_Breakk" />
         <item itemvalue="Application.DortVeBesinKatlari" />
-        <item itemvalue="Application.Whiles_Continuee" />
       </list>
     </recent_temporary>
   </component>
